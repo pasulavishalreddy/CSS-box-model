@@ -1,0 +1,55 @@
+*{
+   background-color: beige;
+} 
+   h1{
+   padding:20px 10px 20px 10px ;
+   background-color: burlywood; 
+   text-align: center;
+   color: white;
+   text-decoration: underline;
+   }
+
+img{
+
+   height:275px;
+   width: 300px;
+
+}
+
+div{
+   display: inline-block;
+   text-align: center;
+}
+
+.box-1{
+   background-color:white ;
+   height:350;
+   width:350px ;
+   text-align:center; 
+   margin-left:auto;
+   margin-top:5px;
+   border-top:50px;
+   padding: 3%;
+   box-shadow: white;
+}
+
+p{
+   background-color: white;
+}
+h3{
+   background-color: white;
+   text-decoration: underline;
+}
+
+h2{
+   background-color: burlywood;
+   text-align: center;
+}
+
+h2{
+   padding:20px 10px 20px 10px ;
+   background-color: burlywood; 
+   text-align: center;
+   color: white;
+}
+
